@@ -25,7 +25,6 @@ class RateCalculator extends Component {
 	componentDidMount() {
 		this.props.fetchRates();
 		const cachedRate = localStorage.getItem('myData');
-		console.log(cachedRate)
 		if (cachedRate) {
 			this.setState({ ...JSON.parse(cachedRate) });
 		}
