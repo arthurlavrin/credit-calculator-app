@@ -1,0 +1,47 @@
+.RateCalculator {
+    background-color: #cccbcb;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    color: black;
+    border: 5px solid black;
+    border-radius: 5px;
+    width: 50%;
+    box-shadow: 0px 0px 112px rgb(2, 1, 1);
+}
+
+.RateCalculator label {
+    color: black;
+    font-size: 14px;
+}
+
+.RateCalculator h1 {
+    align-self: flex-start;
+    font-size: 20px;
+    margin: 0;
+    padding-bottom: 20px;
+}
+
+.RateCalculator p {
+    align-self: flex-start;
+    font-size: 14px;
+    margin: 0;
+    padding-bottom: 30px;
+}
+
+.RateCalculator span {
+    color: black;
+}
+
+.selectWrapper {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.RateCalculator .input-range__slider {
+
+}

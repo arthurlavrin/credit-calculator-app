@@ -1,0 +1,9 @@
+[
+  {"ratePerAnnum": 40, "minLoan": 100, "maxLoan": 10000, "minTerm": 1, "maxTerm": 60, "currency": "Гривны"},
+  {"ratePerAnnum": 30, "minLoan": 500, "maxLoan": 7000, "minTerm": 1, "maxTerm": 60, "currency": "Доллары"},
+  {"ratePerAnnum": 29, "minLoan": 100, "maxLoan": 7000, "minTerm": 1, "maxTerm": 60, "currency": "Гривны"},
+  {"ratePerAnnum": 15, "minLoan": 200, "maxLoan": 5000, "minTerm": 1, "maxTerm": 60, "currency": "Гривны"},
+  {"ratePerAnnum": 29, "minLoan": 300, "maxLoan": 3000, "minTerm": 1, "maxTerm": 60, "currency": "Доллары"},
+  {"ratePerAnnum": 11, "minLoan": 400, "maxLoan": 1000, "minTerm": 1, "maxTerm": 60, "currency": "Доллары"}
+
+]

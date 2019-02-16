@@ -1,0 +1,26 @@
+.RateReview {
+    background-color: #ffffff;
+    border: 5px solid #cccbcb;
+    border-radius: 5px;
+    box-shadow: 0px 0px 112px rgb(2, 1, 1);
+}
+
+.RateReview > div:first-child {
+    display: flex;
+}
+
+.RateReview p {
+    font-size: 14px;
+}
+
+.RateReview p {
+    font-size: 14px;
+}
+
+.RateReview > div {
+    padding: 20px;
+}
+
+.RateReview > div > div {
+    padding-right: 20px;
+}

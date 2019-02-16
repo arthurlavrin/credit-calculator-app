@@ -1,0 +1,10 @@
+.RateReport {
+    background-color: #d0de5c;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    border: 3px solid black;
+    border-radius: 5px;
+    box-shadow: 0 0 112px rgb(2, 1, 1);
+}
